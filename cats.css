@@ -1,0 +1,58 @@
+h1{
+    color:darkgreen
+}
+
+h1{
+    font-size: 80px;
+}
+
+h3{
+    font-size: 40px;
+}
+
+h3{
+    color:blueviolet
+}
+
+p{
+    background-color: black;
+    color:lightblue
+}
+
+button{
+    color:green
+}
+
+.large {
+    background-color: black;
+    color:lightblue;
+}
+
+.navbar{
+    background-color: indigo;
+    width: 60%;
+    text-align: center;
+    border-color: lightblue;
+    border-width: 40px;
+    border-style: solid;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#content {
+    border-style: solid;
+    border-width: 0px;
+    border-color: grey;
+    width: 90%;
+    padding: 40px;
+}
+
+body{
+    background-image: url(catsback.jpg);
+}
+
+img{
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
